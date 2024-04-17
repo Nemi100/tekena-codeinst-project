@@ -11,9 +11,9 @@
     <title>D'Twisters</title>
   </head>
   <body>
-    <div>
+  <div class="container-fluid">
     <!--top-page-label-->
-     <div class="container-top fluid">
+     <div class="container-top">
         <div class="row">
             <div class="col-sm-6 col-lg-6 col-xl-6">
                 <form class="bg-red-light">
@@ -21,27 +21,28 @@
                     <h4 class="lead">Join Our Mailing List</h4>
                     <label for="subscribe">Email</label>
                     <input type="email"><br>
-                    <input class="form-check-input" type="checkbox" value="" id="ageValidation">
-                    <label class="form-check-label" for="ageValidation">
-                      <p>I am over 16 years</p>
-                    </label><br>
-                    <input class="btn btn-primary" type="submit" value="Submit">
+                    <input class="form-check-input" type="checkbox" value="invalidCheck" id="invalidCheck" required>
+                <label class="form-check-label" for="invalidCheck">
+                  <p><strong>I am over 16 years</strong></p>
+                </label><br>
+                <input class="btn btn-primary" type="submit" value="Join Us">
                 </form>
             </div>
             <div class="col-sm-6 col-lg-6 col-xl-6">
-                  <ul class="nav nav-pills lead">
-                    <li class="nav-item">
-                      <a class="nav-link" aria-current="page" href="gallery.html">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#"></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="music.html">Music</a>
-                    </li>
-                  </ul>
+            <ul class="nav justify-content-end>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="gallery.html">Gallery</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="music.html">Music & Lyrics
+                </a>
+              </li>
+            </ul>
             </div>
-        </div>
+
         
      </div>
     <!--top-page-label-ends-->
@@ -50,7 +51,7 @@
      <div class=container  class=row-cols-sm-12 col-lg-12 col-xl-12">
         <div class="container">
             <h1 class="display-1 text-center">Welcome to d'Twisters</h1>
-            <p class="h3 lead text-center  p-5 mb-5 mt-5">Our Rich Infusion Of Sounds , Your Guilty Pleasure </p><hr>
+            <p class="h3 lead text-center  p-5 mb-5 mt-5">Prepare For a Sonic Voyage Beyond The Milky Way—a Collision Of Sound Waves and Supernovae. </p><hr>
         </div>
     </div>
     </div>
@@ -66,14 +67,25 @@
             <figcaption class="figure-caption">d'Twisters 2011</figcaption>
           </figure>-->
           <div class="col lead text-white">
-            <h3>About Us</h3>
-            <p>The band came together in 2011.</p><br>
-            <p>Our Songs are a mixture of rich afro beats and pop culture. </p>
-            <p><span>Genre: </span>Afro-pop</p>
+            <h3>d'Twisters Time Capsul</h3>
+            <p>In the vast expanse of musical galaxies,d'Twisters chart their course. Born from stardust and fueled by cosmic curiosity, this genre-blending ensemble transcends boundaries..</p><br>
+                <ul>
+                  <li>
+                    <strong>Aurora Nova: </strong>(Vocals and Synths): A celestial siren whose voice echoes across light-years.
+                  </li>
+                  <li>
+                    <strong>Stellar Pulse: </strong>(Guitar and Effects): A cosmic guitarist, fingers dancing on strings like shooting stars.
+                  </li>
+                  <li>
+                    <strong>Nebula Groove:</strong> (Bass and Beats): The pulsar heart of the band, laying down interstellar rhythms.
+                  </li>
+                </ul>
+                <h3>Achievements and Stardust Trails: </h3>
+                <p>From sold-out planetarium shows to collaborating with most Children Trust Charities,<strong>d'Twisters </strong>have left comet trails across the music universe.</p>
 
           </div>
-          <div class="col lead">
-            <h3>Highlights</h3>
+          <div class="col lead text-white">
+            <h3>Upcoming Constellations</h3>
             <ol class="list-group list-group-numbered">
               <li class="list-group-item d-flex justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -105,20 +117,35 @@
      <div class="container">
       <div class="row">
         <div class="col">
-          <div class="card" style="width: 18rem;">
+          <div class="card border-0" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">For Bookings and Reservations</h5>
+              <div class="container-fluid">
+                <span>Phone: </span>
+                <span>012 345 678 910</span>
+                </div>
+                <div>
+                <span>Email: </span>
+                <span>info@d'twiters.com</span>
+                </div>
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card" style="width: 18rem;">
+          <div class="card border-0" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">Join Our Mailing List </h5>
+              <p class="card-text">To Get a Chance to Win Our New Album</p>
+              <img src="concert img source/albumcover.jpeg" class="rounded mx-auto d-block" alt="..."><br>
+              <form class="bg-red-light">
+                <label for="subscribe"><strong>Email</strong></label>
+                <input type="email"><br>
+                <input class="form-check-input" type="checkbox" value="invalidCheck" id="invalidCheck" required>
+                <label class="form-check-label" for="invalidCheck">
+                  <p><strong>I am over 16 years</strong></p>
+                </label><br>
+                <input class="btn btn-primary" type="submit" value="Join Us">
+            </form>
             </div>
           </div>
         </div>

@@ -5,6 +5,13 @@
     font-family: 'Roboto', sans-serif;
     
   }
+  .g-item{
+    height: 480px;
+  }
+  .g-img{
+     height: 100%;
+     object-fit: cover;
+  }
   
   .container-social li{
     float: left;
