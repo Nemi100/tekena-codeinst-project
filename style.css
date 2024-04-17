@@ -3,24 +3,31 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+#mainpage{
+  background-color: #F48C06;
+}
     
   }
   .g-item{
-    height: 480px;
+    height: 400px;
   }
   .g-img{
      height: 100%;
      object-fit: cover;
   }
-  
+  .carousel-item img{
+    height: 100%;
+  }
   .container-social li{
     float: left;
     /*display: inline;*/
-    font-size: 160%;
+    font-size: 45px;
     margin: 1%;
     padding: 5px;
     flex-wrap: initial;
+    list-style-type: none;
   }
+  
   
     
 
