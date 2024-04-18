@@ -6,7 +6,9 @@
 #mainpage{
   background-color: #F48C06;
 }
-    
+.hero-image{
+  display:flex;
+}   
   }
   .g-item{
     height: 400px;
@@ -26,6 +28,9 @@
     padding: 5px;
     flex-wrap: initial;
     list-style-type: none;
+  }
+  .footer{
+    flex-wrap: wrap;
   }
   
   
