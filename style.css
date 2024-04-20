@@ -2,38 +2,50 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;}
 #mainpage{
   background-color: #F48C06;
 }
 .hero-image{
   display:flex;
-}   
-  }
-  .g-item{
-    height: 400px;
-  }
-  .g-img{
-     height: 100%;
-     object-fit: cover;
-  }
-  .carousel-item img{
-    height: 100%;
-  }
+}  
+.gallery-img img{
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+  width: 450px;
+  overflow: hidden;
+} 
+
   .container-social li{
-    float: left;
-    /*display: inline;*/
+    float: center;
     font-size: 45px;
+    margin: 1%;
+    padding: 5px;
+    flex-wrap: none;
+    list-style-type: none;
+  }
+  
+  .contact-us li{
+  
+    font-size: 25px;
     margin: 1%;
     padding: 5px;
     flex-wrap: initial;
     list-style-type: none;
   }
-  .footer{
-    flex-wrap: wrap;
-  }
   
-  
-    
-
+  /*#carouselExampleIndicators{
+     width: 50%;
+     height: 60%;
+     margin-left: auto;
+     margin-right: auto;
+  } */
+/*.c-item{
+height: 580px;
+}
+.c-img{
+ height: 100%;
+ object-fit: cover;
+}
   
