@@ -3,8 +3,17 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;}
-#mainpage{
+/*#mainpage{
   background-color: #F48C06;
+}*/
+.top-nav{
+  background-color: #370617;
+}
+.top-navigation, .footer-nav{
+  background-color: #FAA307;
+}
+.above-footer{
+  background-color: #03071E;
 }
 .hero-image{
   display:flex;
