@@ -16,7 +16,7 @@
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid top-navigation">
           <a class="navbar-brand" href="#">
-            <img src="asset/concert img source/band logo.jpeg" alt="" width="50" height="40">
+            <img src="asset/concert-img-source/band logo.jpeg" alt="" width="50" height="40">
           </a>
           <a class="navbar-brand" href="#"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,7 +28,7 @@
                 <a class="nav-link active" aria-current="page" href="index.html">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Contact us.html">Contact us</a>
+                <a class="nav-link" href="Contact-us.html">Contact us/ Sign Up</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="gallery.html">Gallery</a>
@@ -50,8 +50,13 @@
       </div>
       <!--header-code-ends-->
       <!---sign up form code below-->
-     <div class="top-nav text-white-50">
+    <section id="contact-us text-dark">
+     <div class=" container-lg">
+      <div class="text-center">
         <h2>Register</h2>
+        <p class="lead">For Updates on Events and Tour</p>
+      </div>
+      <div class="row justify-content-center my-5">
       <form class="row g-3 needs-validation lead" novalidate>
         <div class="col-md-4">
           <label for="validationCustom01" class="form-label">First name</label>
@@ -113,23 +118,59 @@
             </div>
           </div>
         </div>
+      
         <div class="col-12">
           <button class="btn btn-primary" type="submit">Sign Up</button>
         </div>
       </form>
-      <div class="lead top-nav text-white-50">
-        <h2>Contact Us</h2>
-            <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-            </div>
-            <div class="mb-3">
-                <label for="exampleFormControlTextarea1" class="form-label">Message Area</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea><br>
-                <button type="button" class="btn btn-primary">submit</button>
-            </div>
+     </div>
+    </section>
+    <section id="contactus">
+      <div class="container-lg">
+        <div class="row">
+          <h2>For The Love of Music</h2>
+           <p class="lead">Catch Us at the Nebula Festival. Prepare for a sonic voyage beyond the Milky Way—a collision of sound waves and supernovae.
+
+            Remember,d'Twisters are more than a band; we are music navigators. </p>
+        </div>
+        <div>
+          <h3>We Will Love To Hear From You</h3>
+          <p class="lead">For enquiries or just what you think of our music</p>
+          <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Contact us
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Fill The Form Below</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <label for="exampleFormControlInput1" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+        </div>
+        <div class="mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Text-Area</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">submit</button>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+      </div>
+    </section>
        <!--footer-code-below-->
+    <section>
      <div class="container-fluid above-footer text-white-50">
         <div class="row">
           <div class="col">
@@ -149,8 +190,7 @@
               <div class="card-body above-footer">
                 <h5 class="card-title">Welcome To Our Mailing List </h5>
                 <p class="card-text">You Now Stand a Chance to Win Our New Album</p>
-                <img src="asset/concert img source/albumcover.jpeg" class="rounded mx-auto d-block" alt="..."><br>
-                <a class="btn btn-primary btn lrg" href=""role="button">Sign Up</a>
+                <img src="asset/concert-img-source/albumcover.jpeg" class="rounded mx-auto d-block" alt="..."><br>
               </div>
             </div>
           </div>
@@ -174,6 +214,7 @@
           </div>
         </div>
        </div>
+      </section>
        <!---footer navbar below-->
        <ul class=" container-social nav nav-tabs footer-nav">
         <h3>Follow us on:</h3><br>
