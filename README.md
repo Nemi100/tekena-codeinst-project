@@ -1,39 +1,139 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Welcome to d'Twisters!
 
-Welcome,
+## Overview
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+d'Twisters is a band looking to grow their fan base, collaaborate with like minded artist, increase album and  concert ticket sales. Anyone that visits the page is able to register to join our mailimg list, with a chance to win concert tickets and a signed copy of upcoming Album.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Site vistors  have the chance to either follow the band socials or sign up for updates.
 
-## Codeanywhere Reminders
+The about us gives the users a brief knowledge of the band members through the pictures display. The read more button uncovers more about the band 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
+## Getting Started
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+To get started with [Project Name], follow these steps:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/Nemi100/tekena-codeinst-project.git
+    ```
 
-`http_server`
+2. **Navigate to the project directory:**
+    ```
+    cd your-project
+    ```
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+3. **Open the `index.html` file in your preferred web browser.**
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Support
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+If you have any questions, issues, or suggestions regarding [Project Name], please feel free to [contact us](mailto:your-email@example.com)
 
-To log into the Heroku toolbelt CLI:
+## User Experience (UX)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+This website is meant to introduce d'Twister's musical band to everyone and also musically like minded people/artists together. The navigation is very clear and a form set up on the register page to apply to win free concert tickets and a signed copy of the upcoming album.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+**User Stories**
 
----
+    First-time visitor goals
+    - Understand the main purpose of the site and learn more about d'Twister musical band
+    - Listen to sample of their music 
+    - Navigate easily throughout the site
+    - Register/signup toAlbum' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed.      
+        
+    Returning visitor goals
+    - Find out latest information about the band
+    - Review the extensive site gallery
+    - Find the contact information
 
-Happy coding!
+    Frequent user goals
+    - Review the gallery for any new photos
+    - Review the home page for upcoming concert dates
+    - Listen to new songs if available
+
+    ## Features
+
+- This website target people that is interested
+- This can be done by navigating to the register/signup page/popup and filling out the form
+- This Website is very responsive on all device sizes, it also has light/dark mode toggle
+
+
+### Existing Features
+
+- Navigation bar
+    - Includes links to the home page, gallery and contact/Sign up
+    - Easy navigation between pages without having to revert via back button
+    - Consitent design across all pages (header and footer)
+
+navigation image
+
+
+- Main Heading
+    - It has a consistent orange and brown background with comprises of "Welcome to the d'Twisters"
+    - There is a CTA for signup at the heading, this is consistent across all pages
+
+
+Header image
+
+- Section One - Image Corusel
+    - Selection of images scrolling across the page
+    
+    Corusel image 
+
+- Section two - More details on the band    
+    - Detailed information of the background
+    - List of some of the song on the upcoming Album and go live date
+
+    section 2 image
+
+- Section three 
+    - Details for bookings and reservations
+    - CTA to contact the band or sign up for the newsletter
+    - Each page has unique content
+
+ section 3 image
+
+
+- Footer
+    - Follow the band on all social pages (link to each social channel)
+
+    Foot image
+
+## Features Left to Implement
+-  Additional gallery images
+-  Capability for the ability for each user to have a dedicated account where they can see all that they have signed up for and also history of any concerts tickets previously purchased
+- A dedicated place that fans can share their experiences meeting the band
+- sign up form validation
+- Contact Us submit button 
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## Acknowledgements
+
+We would like to thank the following individuals and organizations for their contributions to [Project Name]:
+
+- [Nemi100](https://github.com/Nemi100)
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to [Project Name], feel free to submit a pull request. Before submitting a pull request, please make sure to follow these guidelines:
+
+- Maintain code style and formatting.
+- Write clear and concise commit messages.
+- Test your changes thoroughly.
+
+## Authors
+
+- [@TekenaN](https://github.com/Nemi100)
