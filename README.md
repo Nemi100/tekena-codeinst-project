@@ -20,14 +20,14 @@ To get started with [Project Name], follow these steps:
 
 2. **Navigate to the project directory:**
     ```
-    cd your-project
+    https://nemi100.github.io/tekena-codeinst-project/
     ```
 
 3. **Open the `index.html` file in your preferred web browser.**
 
 ## Support
 
-If you have any questions, issues, or suggestions regarding [Project Name], please feel free to [contact us](mailto:your-email@example.com)
+If you have any questions, issues, or suggestions regarding d'Twisters, please feel free to mail (teksity@gmail.com)
 
 ## User Experience (UX)
 
@@ -104,7 +104,9 @@ Header image
 -  Capability for the ability for each user to have a dedicated account where they can see all that they have signed up for and also history of any concerts tickets previously purchased
 - A dedicated place that fans can share their experiences meeting the band
 - sign up form validation
-- Contact Us submit button 
+- Contact Us submit button
+- A responsive gallery
+ 
 
 ## Acknowledgements
 
