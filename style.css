@@ -115,4 +115,19 @@ section#contactus{
     flex-wrap: initial;
     list-style-type: none;
   }
+  /*.gallery {
+    display: inline flex;
+    justify-content: center;
+    align-items: auto;
+    flex-wrap: wrap;
+   /* clear: both;*/
+ /*   column-count: 4;
+  }
+  .gallery img{
+    width: 490px;
+    height: 300px;
+    border: 2px solid #F76201;
+   /* border-radius: 13px;*/
+   /* box-shadow: 4px 7px 7px opx #2a2928;
+    cursor: pointer;
   
