@@ -39,7 +39,7 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     - Understand the main purpose of the site and learn more about d'Twister musical band
     - Listen to sample of their music 
     - Navigate easily throughout the site
-    - Register/signup toAlbum' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed.      
+    - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed.      
         
     Returning visitor goals
     - Find out latest information about the band
@@ -50,6 +50,24 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     - Review the gallery for any new photos
     - Review the home page for upcoming concert dates
     - Listen to new songs if available
+
+**Design**
+
+    - Colour Scheme
+        - The main colours used are orange(header & footer), black, blue and grey/brown (text) - Teks to double check the correct colours used.
+
+    - Typography
+        - The    font is the chosen font to use. This is because 
+    
+    Imagery
+        - The images used 
+
+**Wireframes**
+        - Home Page Wireframe
+
+        - Contact Us / Sign Up Page Wireframe
+
+        - Gallery Page Wireframe
 
     ## Features
 
@@ -107,6 +125,83 @@ Header image
 - Contact Us submit button
 - A responsive gallery
  
+## Technology Used 
+
+    - Languages Used
+        - CSS
+        - HTML
+    
+    Frameworks and Programs Used
+
+        - GitHub
+            -
+        - Bootstrap5
+            - 
+        - VS Code
+            -
+        - Git
+            - 
+
+## Testing
+
+The    were used to validate all the created pages
+
+ - Markup Validator (Results)
+ - CSS Validator (Results)
+
+- Testing User Stories
+
+    - First-Time Visitor Goals
+        - Understand the main purpose of the site and learn more about d'Twister musical band
+
+
+        - Listen to sample of their music 
+
+
+        - Navigate easily throughout the site
+
+
+        - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed. 
+
+
+
+    - Returning Visitor Goals
+
+        - Find out latest information about the band
+
+
+        - Review the extensive site gallery
+
+
+        - Find the contact information
+
+
+
+    - Frequent User Goals
+
+        - Review the gallery for any new photos
+
+
+        - Review the home page for upcoming concert dates
+
+
+        - Listen to new songs if available
+
+
+- Additional Testing
+
+    - All created web pages were tested on various browsers (Microsoft Edge, Google Chrome and Safari)
+    - All links on the website was tested to ensure accuracy
+    - Website was tested and reviewed by family and friends
+   
+- Known Bugs
+
+    - The text at the bottom of the page is not very clear on mobile devices 
+    - The images in the gallery page are not aligned in their containers correctly
+ 
+
+
+
 
 ## Acknowledgements
 
