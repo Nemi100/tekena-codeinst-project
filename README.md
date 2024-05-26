@@ -11,8 +11,6 @@ The about us gives the users a brief knowledge of the band members through the p
 
 ## Getting Started
 
-To get started with [Project Name], follow these steps:
-
 1. **Clone the repository:**
     ```
     git clone https://github.com/Nemi100/tekena-codeinst-project.git
