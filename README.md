@@ -59,11 +59,16 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     Imagery
         - The images used are from Pexels.
 
-**Wireframes**
+### Wireframes
     
-        - Gallery Page Wireframe
-        - Homepage Wireframe
-        - Contact Us / Sign Up Wireframe
+ - Gallery Page Wireframe
+    ![GalleryWireFrame](Twister_Gallery_WireFrame.jpg)
+
+-  Homepage Wireframe
+     ![HomePageWireFrame](Twister_HomePage_WireFrame.jpg)
+
+- Contact Us / Sign Up Wireframe
+     ![ContactUsWireFrame](Twister_ContactUs_WireFrame.jpg)
 
 ### Existing Features
 
@@ -143,7 +148,6 @@ This website is meant to introduce d'Twister's musical band to everyone and also
         - Uizard
             - This was used in the creation of the wireframes during the design stage.
         
-    
 ## Testing
 
 W3C was used to validate all the created pages throughout the development/implementation stages to ensure there were no errors.
@@ -185,7 +189,6 @@ W3C was used to validate all the created pages throughout the development/implem
         - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed. 
             - The navigation bar highlights the 'Sign Up' to the newsletter call to action, with emphasises on a chance to win concert tickets and/or get a signed copy of the new upcoming Album.
 
-
     - Returning Visitor / Frequent User Goals
 
         - Find out latest information about the band
@@ -219,12 +222,28 @@ W3C was used to validate all the created pages throughout the development/implem
     - The images in the gallery page are not aligned in their containers correctly.
     - Mobile responsiveness not very fluid
 
+ ![HomePageResponsive](Twister_HomePage2_Responsive.jpg)
+ - Home Page
+
+ ![HomePageResponsive](Twister_HomePage1_Responsive.jpg)
+
+ ![HomePageResponsive](Twister_HomePage2_Responsive.jpg)
+
+  - Gallery
+
+ ![GalleryResponsive](Twister_Gallery_Responsive.jpg)
+
+ - Contact Us
+
+  ![ContactUsResponsive](Twister_ContactUs_Responsive.jpg)
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [Pexels Images] (https://www.pexels.com/search/concert/)
+ - [Code Institute](https://codeinstitute.net/)
 
 We would like to thank the following individuals and organizations for their contributions to [Twisters]:
 
