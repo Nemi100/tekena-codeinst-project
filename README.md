@@ -6,8 +6,7 @@ d'Twisters is a band looking to grow their fan base, collaaborate with like mind
 
 Site vistors  have the chance to either follow the band socials or sign up for updates.
 
-The about us gives the users a brief knowledge of the band members through the pictures display. The read more button uncovers more about the band 
-
+The about us gives the users a brief history of the band and also information about each member of the band.
 
 ## Getting Started
 
@@ -73,37 +72,36 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     - Easy navigation between pages without having to revert via back button
     - Consitent design across all pages (header and footer)
 
-Navigation image
+    ![Navigation Bar](Twister_Navigation.jpg)
 
 - Main Heading
     - It has a consistent orange and brown background with comprises of "Welcome to the d'Twisters"
     - There is a CTA for signup at the heading, this is consistent across all pages
 
-Header image
+    ![Main Header](Twister_MainHeader.jpg)
 
-- Section One - Image Carousel
+- Section One
     - Selection of images scrolling across the page
     
-    Carousel image 
-
+    ![Carousel](Twister_Carousel.jpg)
+    
 - Section two - More details on the band    
     - Detailed information of the band
     - List of some of the song on the upcoming Album and go live date
 
-    Section 2 image
+    ![MoreDetails](Twister_MoreDetails.jpg)
 
 - Section three 
     - Details for bookings and reservations
     - CTA to contact the band or sign up for the newsletter
     - Each page has unique content
 
-  Section 3 image
-
+  ![ContactDetails](Twister_ContactDetails.jpg)
 
 - Footer
     - Follow the band on all social pages (link to each social channel)
 
-    Footer image
+  ![Footer](Twister_Footer.jpg)
 
 **Additional Features**
 
@@ -150,8 +148,23 @@ Header image
 
 W3C was used to validate all the created pages throughout the development/implementation stages to ensure there were no errors.
 
- - Markup Validator (Results)
- - CSS Validator (Results)
+ - Markup Validator
+
+    - Home Page
+
+      ![HomePage](Twister_HomePage_Validator.jpg)
+
+    - Contact Us
+
+      ![ContactUs](Twister_ContactUs_Validator.jpg)
+
+    - Gallery
+
+      ![Gallery](Twister_Gallery_Validator.jpg)
+
+ - CSS Validator
+
+    - ![CSS](Twister_CSS_Validator.jpg)
 
 **Testing User Stories (UX)**
 
