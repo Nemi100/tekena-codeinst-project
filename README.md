@@ -62,12 +62,15 @@ This website is meant to introduce d'Twister's musical band to everyone and also
 ### Wireframes
     
  - Gallery Page Wireframe
+
     ![GalleryWireFrame](Twister_Gallery_WireFrame.jpg)
 
 -  Homepage Wireframe
+
      ![HomePageWireFrame](Twister_HomePage_WireFrame.jpg)
 
 - Contact Us / Sign Up Wireframe
+
      ![ContactUsWireFrame](Twister_ContactUs_WireFrame.jpg)
 
 ### Existing Features
